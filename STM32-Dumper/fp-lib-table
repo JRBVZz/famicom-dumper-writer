@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Dumper-libs")(type "KiCad")(uri "${KIPRJMOD}/Dumper-libs")(options "")(descr ""))
+)
